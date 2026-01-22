@@ -1,5 +1,5 @@
 # Proyect-Python01
-Hola este es un mini proyecto de registación de usuarion.
+Hola este es un mini proyecto de registación de usuarios.
 ---------------------------------------------------------
 Para inicar el programa escribir en el CMD:
 python .\main.py
